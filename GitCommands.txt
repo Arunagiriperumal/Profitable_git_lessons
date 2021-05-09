@@ -1,0 +1,7 @@
+Git remote commands 
+git remote add origin (url of the repository)
+git remote -v
+git pull origin master
+git push origin master
+\ no new line at end of the file
+
